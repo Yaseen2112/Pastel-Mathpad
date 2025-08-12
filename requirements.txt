@@ -1,0 +1,6 @@
+# Tkinter is included with Python by default
+# Add only extra packages if you extend functionality
+(If you later upgrade it to real gradients with customtkinter, add:)
+# customtkinter is a modern and customizable version of Tkinter
+# It provides additional features and a more modern look
+customtkinter
