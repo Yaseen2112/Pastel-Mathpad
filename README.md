@@ -20,20 +20,21 @@ It’s a perfect blend of functionality and aesthetics for your desktop.
 
 1. **Clone the repository:**
 git clone https://github.com/Yaseen2112/pastel-mathpad.git
+
   cd pastel-mathpad
 
 
-2. **(Optional) Create a virtual environment:**
+3. **(Optional) Create a virtual environment:**
 
-python -m venv venv
+    python -m venv venv
 
-On Windows:
+    On Windows:
 venv\Scripts\activate
 
-On Mac/Linux:
+    On Mac/Linux:
 source venv/bin/activate
 
-3. **Install dependencies:**
+4. **Install dependencies:**
 
 💡 *Tkinter usually comes pre-installed with Python on most systems*.
 
@@ -79,5 +80,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 📧 Email: skyaseen2112@gmail.com
 
 📌 GitHub: [Yaseen2112](https://github.com/Yaseen2112)
+
 
 
