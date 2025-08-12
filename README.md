@@ -20,11 +20,10 @@ It’s a perfect blend of functionality and aesthetics for your desktop.
 
 1. **Clone the repository:**
 git clone https://github.com/Yaseen2112/pastel-mathpad.git
+  cd pastel-mathpad
 
-cd pastel-mathpad
 
-
-3. **(Optional) Create a virtual environment:**
+2. **(Optional) Create a virtual environment:**
 
 python -m venv venv
 
@@ -80,4 +79,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 📧 Email: skyaseen2112@gmail.com
 
 📌 GitHub: [Yaseen2112](https://github.com/Yaseen2112)
+
 
